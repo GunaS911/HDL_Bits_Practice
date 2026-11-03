@@ -6,6 +6,6 @@ module top_module (
     output q );//
 
     assign q = ~(a^b^c^d); // Fix me
-
+    
 endmodule
 
